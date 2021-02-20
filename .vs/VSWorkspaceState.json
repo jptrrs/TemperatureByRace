@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Assemblies",
+    "\\Source",
+    "\\Source\\packages"
   ],
   "SelectedNode": "\\TemperatureByRace.sln",
   "PreviewInSolutionExplorer": false
